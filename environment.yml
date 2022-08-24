@@ -2,5 +2,5 @@ name: Blot-Overlay
 dependencies:
 - numpy
 - tifffile
-- PIL
+- pillow
 - matplotlib
