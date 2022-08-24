@@ -1,0 +1,6 @@
+name: Blot-Overlay
+dependencies:
+- numpy
+- tifffile
+- PIL
+- matplotlib
